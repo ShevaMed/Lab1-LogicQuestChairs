@@ -1,0 +1,5 @@
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
