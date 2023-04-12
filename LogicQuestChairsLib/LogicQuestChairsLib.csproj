@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory\FirstRoom.cs" />
     <Compile Include="Factory\Room.cs" />
+    <Compile Include="Factory\SecondRoom.cs" />
+    <Compile Include="Factory\ThirdRoom.cs" />
     <Compile Include="Object\Chair.cs" />
     <Compile Include="Object\EmptyChair.cs" />
     <Compile Include="Object\Treasure.cs" />
