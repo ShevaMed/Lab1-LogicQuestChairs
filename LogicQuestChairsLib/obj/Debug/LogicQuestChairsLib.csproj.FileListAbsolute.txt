@@ -1,6 +1,0 @@
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\LogicQuestChairsLib\obj\Debug\LogicQuestChairsLib.csproj.AssemblyReference.cache
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\LogicQuestChairsLib\obj\Debug\LogicQuestChairsLib.csproj.CoreCompileInputs.cache
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\LogicQuestChairsLib\bin\Debug\LogicQuestChairsLib.dll
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\LogicQuestChairsLib\bin\Debug\LogicQuestChairsLib.pdb
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\LogicQuestChairsLib\obj\Debug\LogicQuestChairsLib.dll
-D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab1 - LogicQuestChairs\LogicQuestChairsLib\obj\Debug\LogicQuestChairsLib.pdb
